@@ -9,6 +9,8 @@
 
 Iktva forum is the leading global energy supply chain event, hosting multiple sectors, local and international, small and large, and attracting influential executives and global industry leaders.
 
+## My Role
+
 
 
 
@@ -16,12 +18,12 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
-
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 
@@ -35,15 +37,16 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 We are the Knowledge and Human Development Authority (KHDA)
 We support schools, universities, parents, students, educators, investors and government partners to create a high-quality education sector focused on happiness and wellbeing.
 
-
+## My Role
 
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 
@@ -58,16 +61,16 @@ We support schools, universities, parents, students, educators, investors and go
 
 The DocApp allows physicians to access patient profiles in real time, and assess progress at a glance. Physician-patient communication becomes faster, easier, and seamless. Workflow, time management, and documentation become efficient, eliminating time-wasting searches for missing information.
 
-
+## My Role
 
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
-
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 # AppName: [H&M](https://apps.apple.com/us/app/h-m-we-love-fashion/id834465911)
 
@@ -80,14 +83,18 @@ The DocApp allows physicians to access patient profiles in real time, and assess
 H&M's business idea is to offer fashion and quality at the best price in a sustainable way. With a broad and varied product range, H&M makes it easy for anyone who is into fashion to express their own personal style.
 
 
+## My Role
+
+
+
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
-
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 # AppName: [My live docotors](https://itunes.apple.com/pk/app/my-live-doctors/id1442801409?mt=8)
@@ -100,13 +107,19 @@ H&M's business idea is to offer fashion and quality at the best price in a susta
 My Live Doctors is an online mobile application that will help you find a doctor and book a free online doctor appointment at your convenience!
 
 
+## My Role
+
+
+
+
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 
@@ -120,14 +133,17 @@ My Live Doctors is an online mobile application that will help you find a doctor
 Akshaak is marketplace promote creative, talented people and homemade businesses to turn their idea into successful business. Our platform connect them to buyers looking for alternative-something special with human touch.
 
 
+## My Role
+
+
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
-
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 
@@ -141,13 +157,18 @@ Akshaak is marketplace promote creative, talented people and homemade businesses
 
 Paranu is the world's largest dating site to meet new partners for your animal. Think of us like a dating site for people, only this is for animals.
 
+
+## My Role
+
+
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 # AppName: [Mood](https://apps.apple.com/ky/app/mood-social-app/id1403003910)
@@ -157,18 +178,23 @@ Paranu is the world's largest dating site to meet new partners for your animal. 
 
 
 ### About this app:
+
 This social media app is about posting your mood and including other people of your circle in it.
 There's a map module which shows the locations of all the moods and types, and you can join it if it's publicly available.
 Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemented in it.
 
 
+## My Role
+
+
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 # AppName: [Lanes](https://apps.apple.com/us/app/lanes-campus-chat/id1462745354)
@@ -180,31 +206,24 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 ### About this app:
 
 
-#### TECNOLGES:
+A lane is a group chat and it can be public, private (invite only) and anonymous with the whole school.
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+Anonymous... IMAGINE a world where you could express what you really feel without fear of any kickbacks or judgement. A campus wide setting where you could discuss deeper topics and remain completely anonymous.
 
 
-# AppName: [PhysicianVisit](https://itunes.apple.com/us/app/physicianvisit/id1441935695?mt=8)
-
-
-### Platform: Swift
-
-
-### About this app:
+## My Role
 
 
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
+
+
 
 
 # AppName: [Koo](https://itunes.apple.com/us/app/koo/id1413935597?mt=8)
@@ -216,13 +235,21 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 ### About this app:
 
 
+Koo! is a great way to enjoy and take part of every moment! Listen to a feed of stories told by amazing friends and creative people that you love. Stay connected without missing out on life as it happens.
+
+
+## My Role
+
+
+
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 
@@ -234,15 +261,21 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 
 ### About this app:
 
+A Social media app where users upload their desired work(they want to learn) and tell the amount they are willing to pay. Users with expertise in that field accept and after price bargaining and online payment they can meet physically.
+
+
+
+## My Role
+
 
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
-
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
 
 
 
@@ -251,7 +284,7 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 
  ### Applink
  
-WEB: http://joinabridge.com/
+
 
 IOS: Agency side - https://itunes.apple.com/us/app/abridge-health-agency/id1462794748?ls=1&mt=8
 
@@ -265,10 +298,19 @@ IOS: Patient Side - https://itunes.apple.com/us/app/abridge-health-patient/id146
 ### About this app:
 
 
+Abridge has your back, from reminding you of medical terminology to identifying important details of your care. The app automatically finds key points like medication instructions and follow-ups for your review. Get definitions for medical terms, right in the context of your conversation.
+
+
+
+## My Role
+
+
+
 #### TECNOLGES:
 
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- Objective-C
+- Swift
+- Storyboard
+- Xib 
+ - CocoaPods
+ -  Swift Package Manager
