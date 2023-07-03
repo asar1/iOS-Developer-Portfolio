@@ -18,12 +18,13 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 
 #### TECNOLGES:
 
-- Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- UIKit
+- CocoaPods
+- ARKit
+- Maps
+- Rest Apis
+- MVVM
 
 
 
@@ -41,12 +42,13 @@ We support schools, universities, parents, students, educators, investors and go
 
 #### TECNOLGES:
 
-- Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- Objective C
+- UIKit
+- CocoaPods
+- Maps
+- Rest Apis
+- MVVM + MVC
 
 
 
@@ -67,10 +69,11 @@ The DocApp allows physicians to access patient profiles in real time, and assess
 
 - Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- UIKit
+- CocoaPods
+- Maps
+- Rest Apis
+- MVVM + MVC
 
 # AppName: [H&M](https://apps.apple.com/us/app/h-m-we-love-fashion/id834465911)
 
@@ -91,10 +94,12 @@ H&M's business idea is to offer fashion and quality at the best price in a susta
 
 - Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- UIKit
+- CocoaPods
+- ARKit
+- Maps
+- Rest Apis
+- MVVM
 
 
 # AppName: [My live docotors](https://itunes.apple.com/pk/app/my-live-doctors/id1442801409?mt=8)
@@ -114,12 +119,14 @@ My Live Doctors is an online mobile application that will help you find a doctor
 
 #### TECNOLGES:
 
-- Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- UIKit
+- CocoaPods
+- ARKit
+- Maps
+- Rest Apis
+- MVVM
+- Implemented several BLE Device SDKs
 
 
 
@@ -140,10 +147,11 @@ Akshaak is marketplace promote creative, talented people and homemade businesses
 
 - Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- UIKit
+- CocoaPods
+- Maps
+- Rest Apis
+- MVVM
 
 
 
@@ -163,12 +171,10 @@ Paranu is the world's largest dating site to meet new partners for your animal. 
 
 #### TECNOLGES:
 
-- Objective-C
-- Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- React Native
+- Maps
+- Rest Apis
+- Atomic Patteren
 
 
 # AppName: [Mood](https://apps.apple.com/ky/app/mood-social-app/id1403003910)
@@ -189,12 +195,10 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 
 #### TECNOLGES:
 
-- Objective-C
-- Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- React Native
+- Maps
+- Rest Apis
+- Atomic Patteren
 
 
 # AppName: [Lanes](https://apps.apple.com/us/app/lanes-campus-chat/id1462745354)
@@ -216,40 +220,10 @@ Anonymous... IMAGINE a world where you could express what you really feel withou
 
 #### TECNOLGES:
 
-- Objective-C
-- Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
-
-
-
-
-# AppName: [Koo](https://itunes.apple.com/us/app/koo/id1413935597?mt=8)
-
-
-### Platform: React native
-
-
-### About this app:
-
-
-Koo! is a great way to enjoy and take part of every moment! Listen to a feed of stories told by amazing friends and creative people that you love. Stay connected without missing out on life as it happens.
-
-
-## My Role
-
-
-
-#### TECNOLGES:
-
-- Objective-C
-- Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- React Native
+- Maps
+- Rest Apis
+- Atomic Patteren
 
 
 
@@ -272,11 +246,12 @@ A Social media app where users upload their desired work(they want to learn) and
 
 - Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
-
+- UIKit
+- CocoaPods
+- Maps
+- Rest Apis
+- MVVM
+  
 
 
 
@@ -310,7 +285,8 @@ Abridge has your back, from reminding you of medical terminology to identifying 
 
 - Objective-C
 - Swift
-- Storyboard
-- Xib 
- - CocoaPods
- -  Swift Package Manager
+- UIKit
+- CocoaPods
+- Maps
+- Rest Apis
+- MVVM
