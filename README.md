@@ -1,6 +1,6 @@
 
 
-# AppName: [iktva2023](https://apps.apple.com/us/app/iktva-2023/id1667272087)
+# [iktva2023](https://apps.apple.com/us/app/iktva-2023/id1667272087)
 
 
 ###   Platform: Swift
@@ -28,6 +28,7 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/itkva/iktva6.webp", width="200"/>
 <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/itkva/iktva.1.webp", width="200"/>
 <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/itkva/iktva.2.webp", width="200"/>
 <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/itkva/iktva.3.webp", width="200"/>
@@ -37,7 +38,7 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 
 
 
-# AppName: [KHDA](https://apps.apple.com/ae/app/khda/id510571246)
+# [KHDA](https://apps.apple.com/ae/app/khda/id510571246)
 
 
 ### Platform: Swift
@@ -59,11 +60,19 @@ We support schools, universities, parents, students, educators, investors and go
 - Rest Apis
 - MVVM + MVC
 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/KHDA/Khda1.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/KHDA/khda2.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/KHDA/khda3.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/KHDA/khda4.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/KHDA/khda5.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/KHDA/khda6.webp", width="200"/>
+  </p>
 
 
 
 
-# AppName: [The DocApp](https://itunes.apple.com/us/app/thedocapp/id1193483405?mt=8)
+# [The DocApp](https://itunes.apple.com/us/app/thedocapp/id1193483405?mt=8)
 
 
 ### Platform: Swift
@@ -90,7 +99,7 @@ The DocApp allows physicians to access patient profiles in real time, and assess
 <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/docapp/docapp.3.webp", width="200"/>
 </p>
 
-# AppName: [H&M](https://apps.apple.com/us/app/h-m-we-love-fashion/id834465911)
+# [H&M](https://apps.apple.com/us/app/h-m-we-love-fashion/id834465911)
 
 
 ### Platform: Swift
@@ -124,7 +133,7 @@ H&M's business idea is to offer fashion and quality at the best price in a susta
 
 
 
-# AppName: [My live docotors](https://itunes.apple.com/pk/app/my-live-doctors/id1442801409?mt=8)
+# [My live docotors](https://itunes.apple.com/pk/app/my-live-doctors/id1442801409?mt=8)
 
 
 ### Platform: Swift
@@ -158,7 +167,7 @@ My Live Doctors is an online mobile application that will help you find a doctor
 
 
 
-# AppName: [Akshaak](https://apps.apple.com/in/app/akshaak-%D8%A3%D9%83%D8%B4%D8%A7%D9%83/id1488752843)
+# [Akshaak](https://apps.apple.com/in/app/akshaak-%D8%A3%D9%83%D8%B4%D8%A7%D9%83/id1488752843)
 
 
 ### Platform: Swift
@@ -181,20 +190,19 @@ Akshaak is marketplace promote creative, talented people and homemade businesses
 - Rest Apis
 - MVVM
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akshaak.1.webp", width="200"/>
- <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akshaak.1.webp", width="200"/>
- <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akashaak.3.webp", width="200"/>
- <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akashaak.4.webp", width="200"/>
- <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akashhak.5.webp", width="200"/>
-</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akshaak.1.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akashaak.3.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akashaak.4.webp", width="200"/>
+  <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akashhak.5.webp", width="200"/>
+  </p>
 
 
 
 
 
 
-# AppName: [Paranu](https://apps.apple.com/us/app/paranu-only-for-animals/id1465707213)
+# [Paranu](https://apps.apple.com/us/app/paranu-only-for-animals/id1465707213)
 
 
 ### Platform: React native
@@ -207,6 +215,7 @@ Paranu is the world's largest dating site to meet new partners for your animal. 
 
 ## My Role
 
+In the development of Paranu, I played a key role as a React Native developer, utilizing technologies such as React Native, Maps, Rest APIs, and implementing the Atomic Pattern for an optimal user experience.
 
 #### TECNOLGES:
 
@@ -229,7 +238,7 @@ Paranu is the world's largest dating site to meet new partners for your animal. 
 
 
 
-# AppName: [Mood](https://apps.apple.com/ky/app/mood-social-app/id1403003910)
+# [Mood](https://apps.apple.com/ky/app/mood-social-app/id1403003910)
 
 
 ### Platform: React native
@@ -253,7 +262,7 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 - Atomic Patteren
 
 
-# AppName: [Lanes](https://apps.apple.com/us/app/lanes-campus-chat/id1462745354)
+# [Lanes](https://apps.apple.com/us/app/lanes-campus-chat/id1462745354)
 
 
 ### Platform: React native
@@ -279,7 +288,7 @@ Anonymous... IMAGINE a world where you could express what you really feel withou
 
 
 
-# AppName: [KindMill](https://itunes.apple.com/us/app/kindmill/id1446696024?mt=8)
+# [KindMill](https://itunes.apple.com/us/app/kindmill/id1446696024?mt=8)
 
 
 ### Platform: Swift
@@ -307,7 +316,7 @@ A Social media app where users upload their desired work(they want to learn) and
 
 
 
-# AppName:Abridge
+# Abridge
 
  ### Applink
  
