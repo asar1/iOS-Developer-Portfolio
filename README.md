@@ -12,6 +12,7 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 ## My Role
 
 
+In the development of the iktva2023 app, I played a significant role as a Swift developer, leveraging technologies such as UIKit, CocoaPods, ARKit, Maps, Rest APIs, and following the MVVM architectural pattern to create an engaging and seamless user experience for the leading global energy supply chain event.
 
 
 
@@ -50,6 +51,11 @@ We support schools, universities, parents, students, educators, investors and go
 
 ## My Role
 
+In the development of the KHDA app, I played a crucial role as a Swift and Objective C developer, utilizing technologies such as UIKit, CocoaPods, Maps, Rest APIs, and implementing both MVVM and MVC architectural patterns to create an innovative educational platform supporting various stakeholders for a high-quality, happy, and well-being-focused education sector.
+
+
+
+
 #### TECNOLGES:
 
 - Swift
@@ -83,6 +89,10 @@ The DocApp allows physicians to access patient profiles in real time, and assess
 
 ## My Role
 
+
+In the development of The DocApp, my role was pivotal as a Swift and Objective-C developer. I utilized technologies such as UIKit, CocoaPods, Maps, Rest APIs, and implemented both MVVM and MVC architectural patterns to create an efficient and user-friendly platform for physicians, enabling real-time access to patient profiles, streamlined communication, and enhanced workflow management.
+
+
 #### TECNOLGES:
 
 - Objective-C
@@ -112,6 +122,7 @@ H&M's business idea is to offer fashion and quality at the best price in a susta
 
 ## My Role
 
+In the development of the H&M app, I played a vital role as a Swift and Objective-C developer. Leveraging technologies such as UIKit, CocoaPods, ARKit, Maps, Rest APIs, and implementing the MVVM architectural pattern, I contributed to creating a sustainable and user-friendly fashion platform, offering a wide range of products to help individuals express their unique personal style at affordable prices.
 
 
 #### TECNOLGES:
@@ -144,6 +155,8 @@ My Live Doctors is an online mobile application that will help you find a doctor
 
 
 ## My Role
+
+In the development of My Live Doctors app, I played a crucial role as a Swift developer, utilizing technologies such as UIKit, CocoaPods, Maps, Rest APIs, and implementing the MVVM architectural pattern. Additionally, I successfully integrated and implemented several BLE Device SDKs to enhance the app's functionalities for finding and booking free online doctor appointments conveniently.
 
 
 
@@ -178,6 +191,10 @@ Akshaak is marketplace promote creative, talented people and homemade businesses
 
 
 ## My Role
+
+
+In the development of Akshaak, I played a pivotal role as a developer proficient in Objective-C and Swift. Leveraging technologies such as UIKit, CocoaPods, Maps, Rest APIs, and following the MVVM architectural pattern, I contributed to creating a marketplace platform that connects creative individuals and homemade businesses with buyers seeking unique, handcrafted products, facilitating the success of their ideas in the business world.
+
 
 
 #### TECNOLGES:
@@ -253,6 +270,10 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 
 ## My Role
 
+In the development of the Mood social app, my role was significant as a React Native developer. I utilized technologies such as React Native, Maps, Rest APIs, and implemented the Atomic Pattern to create a social media platform where users can share their moods, join public moods on a map, and incorporated functionalities like Google Maps, Notifications, Firebase, and social sign-ins (Facebook and Google) for an enhanced user experience.
+
+
+
 
 #### TECNOLGES:
 
@@ -272,11 +293,14 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 
 
 A lane is a group chat and it can be public, private (invite only) and anonymous with the whole school.
-
 Anonymous... IMAGINE a world where you could express what you really feel without fear of any kickbacks or judgement. A campus wide setting where you could discuss deeper topics and remain completely anonymous.
 
 
 ## My Role
+
+In the development of Lanes, I played a crucial role as a React Native developer. Leveraging technologies such as React Native, Maps, Rest APIs, and implementing the Atomic Pattern, I contributed to creating a campus chat app where users can participate in public, private, and anonymous group chats, providing a safe and anonymous platform for expressing thoughts and engaging in deeper discussions within the school community
+
+
 
 
 #### TECNOLGES:
@@ -301,6 +325,10 @@ A Social media app where users upload their desired work(they want to learn) and
 
 
 ## My Role
+
+In the development of KindMill, I played a significant role as a developer proficient in Objective-C and Swift. Utilizing technologies such as UIKit, CocoaPods, Maps, Rest APIs, and following the MVVM architectural pattern, I contributed to creating a social media platform where users can upload their desired work, negotiate prices, make online payments, and arrange physical meetings with experts in their desired field, fostering knowledge sharing and skill development.
+
+
 
 
 #### TECNOLGES:
@@ -339,6 +367,9 @@ Abridge has your back, from reminding you of medical terminology to identifying 
 
 
 ## My Role
+
+In the development of Abridge, I played a vital role as a developer proficient in Objective-C and Swift. Leveraging technologies such as UIKit, CocoaPods, Maps, Rest APIs, and following the MVVM architectural pattern, I contributed to creating a healthcare app that provides users with features like medical term definitions, medication instructions, and follow-up reminders, empowering them to better understand and manage their healthcare journey.
+
 
 
 
