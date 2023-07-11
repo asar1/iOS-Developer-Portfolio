@@ -12,7 +12,7 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 ## My Role
 
 
-In the development of the iktva2023 app, I played a significant role as a Swift developer, leveraging technologies such as UIKit, CocoaPods, ARKit, Maps, Rest APIs, and following the MVVM architectural pattern to create an engaging and seamless user experience for the leading global energy supply chain event.
+I've created this app from scratch in Swift 5, leveraging technologies such as UIKit, CocoaPods, ARKit, Maps, Rest APIs. Followed MVVM architectural pattern to create an engaging and seamless user experience for the leading global energy supply chain event.
 
 
 
@@ -51,7 +51,7 @@ We support schools, universities, parents, students, educators, investors and go
 
 ## My Role
 
-In the development of the KHDA app, I played a crucial role as a Swift and Objective C developer, utilizing technologies such as UIKit, CocoaPods, Maps, Rest APIs, and implementing both MVVM and MVC architectural patterns to create an innovative educational platform supporting various stakeholders for a high-quality, happy, and well-being-focused education sector.
+In the development of the KHDA app, my role was to enhance the user experience by revamping the app's UI/UX, making it more intuitive and visually appealing. Additionally, I successfully addressed critical issues such as crashes and memory leaks, ensuring a seamless and stable user experience. My expertise in optimizing code and implementing efficient debugging techniques contributed significantly to the overall performance and reliability of the app.
 
 
 
@@ -90,7 +90,8 @@ The DocApp allows physicians to access patient profiles in real time, and assess
 ## My Role
 
 
-In the development of The DocApp, my role was pivotal as a Swift and Objective-C developer. I utilized technologies such as UIKit, CocoaPods, Maps, Rest APIs, and implemented both MVVM and MVC architectural patterns to create an efficient and user-friendly platform for physicians, enabling real-time access to patient profiles, streamlined communication, and enhanced workflow management.
+My role here was to build up the base architechture of the project on MVVM. I've added the generic structure for the Rest API calling.
+Integrated Opentok for Voip calling and messaging.
 
 
 #### TECNOLGES:
@@ -122,7 +123,7 @@ H&M's business idea is to offer fashion and quality at the best price in a susta
 
 ## My Role
 
-In the development of the H&M app, I played a vital role as a Swift and Objective-C developer. Leveraging technologies such as UIKit, CocoaPods, ARKit, Maps, Rest APIs, and implementing the MVVM architectural pattern, I contributed to creating a sustainable and user-friendly fashion platform, offering a wide range of products to help individuals express their unique personal style at affordable prices.
+As part of the H&M team's project revamp, I played a key role in converting existing Objective-C modules to Swift. Additionally, I was responsible for implementing necessary UI changes using UIKit and Auto Layouts to align with the project's requirements. I actively contributed to updating and improving multiple modules to leverage the latest version of Swift, ensuring codebase consistency and enhanced performance
 
 
 #### TECNOLGES:
@@ -156,7 +157,7 @@ My Live Doctors is an online mobile application that will help you find a doctor
 
 ## My Role
 
-In the development of My Live Doctors app, I played a crucial role as a Swift developer, utilizing technologies such as UIKit, CocoaPods, Maps, Rest APIs, and implementing the MVVM architectural pattern. Additionally, I successfully integrated and implemented several BLE Device SDKs to enhance the app's functionalities for finding and booking free online doctor appointments conveniently.
+I took on the challenging task of developing this app entirely from scratch using Swift 3. One of the standout features of this app was its seamless integration with various hardware modules and BLE devices through SDKs. However, the integration process presented real challenges, particularly in managing concurrent access to Bluetooth modules by multiple devices. Through careful problem-solving and extensive testing, I successfully implemented robust solutions to ensure smooth communication and synchronization between the app and the connected devices.
 
 
 
@@ -193,8 +194,7 @@ Akshaak is marketplace promote creative, talented people and homemade businesses
 ## My Role
 
 
-In the development of Akshaak, I played a pivotal role as a developer proficient in Objective-C and Swift. Leveraging technologies such as UIKit, CocoaPods, Maps, Rest APIs, and following the MVVM architectural pattern, I contributed to creating a marketplace platform that connects creative individuals and homemade businesses with buyers seeking unique, handcrafted products, facilitating the success of their ideas in the business world.
-
+In the Akshaak app, I successfully integrated the Paytabs payment SDK, seamlessly incorporating it into the app's payment flow while adhering to the app's UI/UX design. Additionally, I enhanced the chat module by implementing custom rules for one-to-one conversations, improving the overall user experience. These contributions added value to the app by enabling secure and convenient payment transactions and enhancing the functionality and usability of the chat feature.
 
 
 #### TECNOLGES:
@@ -205,7 +205,7 @@ In the development of Akshaak, I played a pivotal role as a developer proficient
 - CocoaPods
 - Maps
 - Rest Apis
-- MVVM
+- MVVM + MVC
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/asar1/iOS-Developer-Portfolio/main/images/Akashaak/Akshaak.1.webp", width="200"/>
@@ -232,7 +232,7 @@ Paranu is the world's largest dating site to meet new partners for your animal. 
 
 ## My Role
 
-In the development of Paranu, I played a key role as a React Native developer, utilizing technologies such as React Native, Maps, Rest APIs, and implementing the Atomic Pattern for an optimal user experience.
+In the development of Paranu, I played a key role as a React Native developer, by implementing the Atomic Pattern for an optimal user experience.
 
 #### TECNOLGES:
 
@@ -270,8 +270,8 @@ Google Maps, Notifications, Firebase, Facebook and Google Sign in was implemente
 
 ## My Role
 
-In the development of the Mood social app, my role was significant as a React Native developer. I utilized technologies such as React Native, Maps, Rest APIs, and implemented the Atomic Pattern to create a social media platform where users can share their moods, join public moods on a map, and incorporated functionalities like Google Maps, Notifications, Firebase, and social sign-ins (Facebook and Google) for an enhanced user experience.
-
+Initially according to client's requirements, I've created this app in iOS.
+After some requirement changes, my role involved transitioning the project from a native iOS Swift implementation to React Native. I took charge of the migration process, ensuring a smooth transition while leveraging my expertise in both Swift and React Native. This included refactoring code, adapting UI components, and optimizing performance to deliver a unified and cross-platform application experience.
 
 
 
@@ -298,7 +298,7 @@ Anonymous... IMAGINE a world where you could express what you really feel withou
 
 ## My Role
 
-In the development of Lanes, I played a crucial role as a React Native developer. Leveraging technologies such as React Native, Maps, Rest APIs, and implementing the Atomic Pattern, I contributed to creating a campus chat app where users can participate in public, private, and anonymous group chats, providing a safe and anonymous platform for expressing thoughts and engaging in deeper discussions within the school community
+In the development of Lanes, my role as a React Native developer was to optimise the code, found any memory leaks or potential threats to the user experience and handle it with a well defined approach.
 
 
 
@@ -326,50 +326,7 @@ A Social media app where users upload their desired work(they want to learn) and
 
 ## My Role
 
-In the development of KindMill, I played a significant role as a developer proficient in Objective-C and Swift. Utilizing technologies such as UIKit, CocoaPods, Maps, Rest APIs, and following the MVVM architectural pattern, I contributed to creating a social media platform where users can upload their desired work, negotiate prices, make online payments, and arrange physical meetings with experts in their desired field, fostering knowledge sharing and skill development.
-
-
-
-
-#### TECNOLGES:
-
-- Objective-C
-- Swift
-- UIKit
-- CocoaPods
-- Maps
-- Rest Apis
-- MVVM
-  
-
-
-
-# Abridge
-
- ### Applink
- 
-
-
-IOS: Agency side - https://itunes.apple.com/us/app/abridge-health-agency/id1462794748?ls=1&mt=8
-
-IOS: Patient Side - https://itunes.apple.com/us/app/abridge-health-patient/id1462794897?ls=1&mt=8
-
-
-
-### Platform: Swift
-
-
-### About this app:
-
-
-Abridge has your back, from reminding you of medical terminology to identifying important details of your care. The app automatically finds key points like medication instructions and follow-ups for your review. Get definitions for medical terms, right in the context of your conversation.
-
-
-
-## My Role
-
-In the development of Abridge, I played a vital role as a developer proficient in Objective-C and Swift. Leveraging technologies such as UIKit, CocoaPods, Maps, Rest APIs, and following the MVVM architectural pattern, I contributed to creating a healthcare app that provides users with features like medical term definitions, medication instructions, and follow-up reminders, empowering them to better understand and manage their healthcare journey.
-
+I've developed this app from scratch using Swift 3. Created social media core functionalities with payment gateways for paying users and receiving payments from them.
 
 
 
