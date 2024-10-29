@@ -12,9 +12,9 @@ Iktva forum is the leading global energy supply chain event, hosting multiple se
 ## My Role
 
 
-I've created this app from scratch in Swift 5, leveraging technologies such as UIKit, CocoaPods, ARKit, Maps, Rest APIs. Followed MVVM architectural pattern to create an engaging and seamless user experience for the leading global energy supply chain event.
+For the iktwa app, I developed a fully functional event navigation solution from scratch using Swift 5, combining technologies such as UIKit, CocoaPods, ARKit, Maps, and REST APIs. Built on the MVVM architectural pattern, the app delivers an intuitive and engaging user experience.
 
-
+The app was specifically designed to assist a large group of attendees at the iktwa event, where network connectivity was limited. To tackle this challenge, I integrated offline AR functionality, allowing users to navigate the desert with real-time directional guidance without relying on network access. This project required innovative problem-solving to provide a seamless and reliable navigation solution, even in remote conditions.
 
 
 #### TECNOLGES:
@@ -145,7 +145,7 @@ As part of the H&M team's project revamp, I played a key role in converting exis
 
 
 
-# [My live docotors](https://itunes.apple.com/pk/app/my-live-doctors/id1442801409?mt=8)
+# [My live doctors](https://itunes.apple.com/pk/app/my-live-doctors/id1442801409?mt=8)
 
 
 ### Platform: Swift
